@@ -23,9 +23,9 @@ https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS/Using_the_App_Manage
 
 # Projects FirefoxOSAppDays at Mons
 
-- Gestion de stock ()
-- X-moto ()
-- Quizz ()
-- Open Street Map : liste des cafés de Mons? ()
+- MonkeyStockMarket (3)
+- X-moto (3)
+- BananaQuizz (2)
+- Open Street Map : liste des cafés de Mons? (2)
 
 
