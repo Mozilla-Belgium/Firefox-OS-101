@@ -27,5 +27,5 @@ https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS/Using_the_App_Manage
 - X-moto (3)
 - BananaQuizz (2)
 - Open Street Map : liste des cafés de Mons? (2)
-
+- PhotoLoop (2)
 
