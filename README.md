@@ -23,8 +23,13 @@ https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS/Using_the_App_Manage
 
 # Projects FirefoxOSAppDays at Mons
 
-- MonkeyStockMarket (Renaud, \[François, François\])
-- X-moto (Michaël, Aurélien, Anthony)
-- BananaQuizz (Didier, Sébastien, Benoît)
-- MozillaGramLoop (Mathias, Ruben, Mathieu) 
+- MonkeyStockMarket (Renaud, \[François, François\]) [https://github.com/MrRenaud/MonkeyStockMarket]
+- X-moto (Michaël, Aurélien, Anthony) [https://github.com/MichaelHoste/xmoto]
+- BananaQuizz (Didier, Sébastien, Benoît) [http://didier-84.github.io/BananaQuizz/]
+- MozillaGramLoop (Mathias, Ruben, Mathieu) [https://github.com/Math42/FirefoxOs-PhotoGramLoop]
+
+[http://didier-84.github.io/BananaQuizz/]: http://didier-84.github.io/BananaQuizz/
+[https://github.com/MrRenaud/MonkeyStockMarket]: https://github.com/MrRenaud/MonkeyStockMarket
+[https://github.com/MichaelHoste/xmoto]: https://github.com/MichaelHoste/xmoto
+[https://github.com/Math42/FirefoxOs-PhotoGramLoop]: https://github.com/Math42/FirefoxOs-PhotoGramLoop
 
