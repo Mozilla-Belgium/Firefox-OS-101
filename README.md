@@ -21,3 +21,11 @@ A simple FirefoxOS App
 
 https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS/Using_the_App_Manager#Simulator
 
+# Projects FirefoxOSAppDays at Mons
+
+- Gestion de stock ()
+- X-moto ()
+- Quizz ()
+- Open Street Map : liste des cafés de Mons? ()
+
+
