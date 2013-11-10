@@ -1,9 +1,8 @@
-# MozillaWebappBase
+# Firefox OS 101
 
 A simple FirefoxOS App
 
 ## Pre-requisite
-
 
 1. Install [Firefox Beta]  (or [Firefox Nightly],[Aurora] but it seems there is an [issue on Mac OS X] in 27-28)
 2. Go to Menu Tools > Web Developper > App Manager
@@ -21,7 +20,7 @@ A simple FirefoxOS App
 
 https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS/Using_the_App_Manager#Simulator
 
-# Projects FirefoxOSAppDays at Mons
+# Projects FirefoxOSAppDays 2013 in Mons
 
 - MonkeyStockMarket (Renaud, \[François, François\]) [https://github.com/MrRenaud/MonkeyStockMarket]
 - X-moto (Michaël, Aurélien, Anthony) [http://xmoto.io/firefox-os/]
